@@ -17,6 +17,6 @@
 
  ## Exemplo de uso
 
- uses: actions/docker-actions@v1
+ uses: camilakbn/docker-actions@v1
  with:
    who-to-greet: Camila Nascimento
